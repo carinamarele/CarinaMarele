@@ -32,7 +32,7 @@
 #### Stats
 
 [![Carina's GitHub stats](https://github-readme-stats.vercel.app/api?username=carinamarele&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carinamarele&?count_private=true&langs_count=8&layout=compact&theme=dark&exclude_repo=AR_DR_IMR_LPN)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **carinamarele/CarinaMarele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
