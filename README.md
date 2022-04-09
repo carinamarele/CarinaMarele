@@ -40,8 +40,8 @@
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=carinamarele&repo=Flow-Free-Solver&theme=dracula&hide_border" align = "center" />
 </a>
 
-<a href = "https://github.com/carinamarele/Programare_avansata">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=carinamarele&repo=Programare_avansata&theme=dracula&hide_border" align = "center" />
+<a href = "https://github.com/carinamarele/Advanced_Programming">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=carinamarele&repo=Advanced_Programming&theme=dracula&hide_border" align = "center" />
 </a>
 
 <a href = "https://github.com/carinamarele/4-In-a-Row">
