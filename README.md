@@ -1,7 +1,7 @@
 <h1 align="center"> Hello 👋, I'm Marele Carina-Ioana and this is my GitHub page! Welcome!! </h1>
 
 - 📝 I’m currently working on my Bachelor's degree final project
-- 📫 How to reach me: carinaa.marele.ioana@gmail.com
+- 📫 How to reach me: carina.marele.ioana@gmail.com
 - 📚 Enthusiast learner
 
 #### Languages
