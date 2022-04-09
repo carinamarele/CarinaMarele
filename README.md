@@ -2,7 +2,6 @@
 
 - 📝 I’m currently working on my Bachelor's degree final project
 - 📫 How to reach me: carinaa.marele.ioana@gmail.com
-- ⚡ Fun fact: The chances of a code working at the first run are the same as seeing a unicorn.
 - 📚 Enthusiast learner
 
 #### Languages
