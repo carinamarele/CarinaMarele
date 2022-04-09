@@ -34,7 +34,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carinamarele&?count_private=true&langs_count=8&layout=compact&theme=dracula&exclude_repo=AR_DR_IMR_LPN)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Highlighted Projects
+<!-- ### Highlighted Projects
 
 <a href = "https://github.com/carinamarele/Flow-Free-Solver">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=carinamarele&repo=Flow-Free-Solver&theme=dracula&hide_border" align = "center" />
@@ -51,7 +51,7 @@
 <a href = "https://github.com/carinamarele/Ivy-Makeup-WebPage"> 
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=carinamarele&repo=Ivy-Makeup-WebPage&theme=dracula&hide_border" align = "center" />
 </a>
-
+ -->
 
 
 <!--
